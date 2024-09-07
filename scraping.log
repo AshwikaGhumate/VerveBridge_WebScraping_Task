@@ -1,0 +1,58 @@
+2024-09-07 15:26:26,685 - INFO - Starting to scrape category: Laptop
+2024-09-07 15:26:39,783 - INFO - Scraped page 1 of Laptop in 13.10 seconds.
+2024-09-07 15:27:07,915 - INFO - Scraped page 2 of Laptop in 10.20 seconds.
+2024-09-07 15:27:30,069 - INFO - Scraped page 3 of Laptop in 11.91 seconds.
+2024-09-07 15:28:42,081 - ERROR - Timeout while trying to retrieve page 4. Retrying...
+2024-09-07 15:29:45,799 - ERROR - Timeout while trying to retrieve page 4. Retrying...
+2024-09-07 15:30:51,538 - ERROR - Timeout while trying to retrieve page 4. Retrying...
+2024-09-07 15:32:00,996 - ERROR - Timeout while trying to retrieve page 4. Retrying...
+2024-09-07 15:32:00,996 - ERROR - Max retries reached for https://www.flipkart.com/6bo/b5g/~cs-rmq98biaq5/pr?sid=6bo%2Cb5g&collection-tab-name=Core+i5&ctx=eyJjYXJkQ29udGV4dCI6eyJhdHRyaWJ1dGVzIjp7InRpdGxlIjp7Im11bHRpVmFsdWVkQXR0cmlidXRlIjp7ImtleSI6InRpdGxlIiwiaW5mZXJlbmNlVHlwZSI6IlRJVExFIiwidmFsdWVzIjpbIkNvcmUgaTUgTGFwdG9wcyJdLCJ2YWx1ZVR5cGUiOiJNVUxUSV9WQUxVRUQifX19fX0%3D&wid=2.productCard.PMU_V2_2&page=4. Skipping this page.
+2024-09-07 15:32:01,042 - INFO - Completed scraping category: Laptop
+2024-09-07 15:32:01,042 - INFO - Starting to scrape category: Gaming-Laptop
+2024-09-07 15:32:06,962 - INFO - Scraped page 1 of Gaming-Laptop in 5.92 seconds.
+2024-09-07 15:32:30,227 - INFO - Scraped page 2 of Gaming-Laptop in 8.72 seconds.
+2024-09-07 15:32:51,523 - INFO - Scraped page 3 of Gaming-Laptop in 8.36 seconds.
+2024-09-07 15:33:15,074 - INFO - Scraped page 4 of Gaming-Laptop in 5.11 seconds.
+2024-09-07 15:33:38,191 - INFO - Scraped page 5 of Gaming-Laptop in 6.35 seconds.
+2024-09-07 15:33:59,827 - INFO - Scraped page 6 of Gaming-Laptop in 6.92 seconds.
+2024-09-07 15:34:19,122 - INFO - Scraped page 7 of Gaming-Laptop in 7.42 seconds.
+2024-09-07 15:34:37,061 - INFO - Scraped page 8 of Gaming-Laptop in 4.54 seconds.
+2024-09-07 15:34:58,112 - INFO - Scraped page 9 of Gaming-Laptop in 4.80 seconds.
+2024-09-07 15:35:18,347 - INFO - Scraped page 10 of Gaming-Laptop in 5.50 seconds.
+2024-09-07 15:35:40,263 - INFO - Scraped page 11 of Gaming-Laptop in 7.52 seconds.
+2024-09-07 15:36:01,063 - INFO - Scraped page 12 of Gaming-Laptop in 8.23 seconds.
+2024-09-07 15:36:26,768 - INFO - Scraped page 13 of Gaming-Laptop in 7.39 seconds.
+2024-09-07 15:36:52,158 - INFO - Scraped page 14 of Gaming-Laptop in 6.52 seconds.
+2024-09-07 15:37:17,177 - INFO - Scraped page 15 of Gaming-Laptop in 6.50 seconds.
+2024-09-07 15:37:39,102 - INFO - Scraped page 16 of Gaming-Laptop in 5.95 seconds.
+2024-09-07 15:38:01,972 - INFO - Scraped page 17 of Gaming-Laptop in 7.28 seconds.
+2024-09-07 15:38:23,185 - INFO - Scraped page 18 of Gaming-Laptop in 6.02 seconds.
+2024-09-07 15:38:41,738 - INFO - Scraped page 19 of Gaming-Laptop in 6.86 seconds.
+2024-09-07 15:40:11,760 - INFO - Scraped page 20 of Gaming-Laptop in 71.93 seconds.
+2024-09-07 15:40:31,264 - INFO - Scraped page 21 of Gaming-Laptop in 4.80 seconds.
+2024-09-07 15:40:47,647 - INFO - Scraped page 22 of Gaming-Laptop in 4.96 seconds.
+2024-09-07 15:42:00,326 - ERROR - Timeout while trying to retrieve page 23. Retrying...
+2024-09-07 15:43:03,442 - ERROR - Timeout while trying to retrieve page 23. Retrying...
+2024-09-07 15:44:08,815 - ERROR - Timeout while trying to retrieve page 23. Retrying...
+2024-09-07 15:45:17,940 - ERROR - Timeout while trying to retrieve page 23. Retrying...
+2024-09-07 15:45:17,940 - ERROR - Max retries reached for https://www.flipkart.com/gaming/gaming-laptops/pr?sid=4rr,tz1&otracker=categorytree&page=23. Skipping this page.
+2024-09-07 15:45:17,940 - INFO - Completed scraping category: Gaming-Laptop
+2024-09-07 15:45:17,940 - INFO - Starting to scrape category: Mobiles
+2024-09-07 15:45:26,141 - INFO - Scraped page 1 of Mobiles in 8.20 seconds.
+2024-09-07 15:45:52,071 - INFO - Scraped page 2 of Mobiles in 6.98 seconds.
+2024-09-07 15:46:11,538 - INFO - Scraped page 3 of Mobiles in 7.20 seconds.
+2024-09-07 15:46:30,767 - INFO - Scraped page 4 of Mobiles in 6.02 seconds.
+2024-09-07 15:46:48,214 - INFO - Scraped page 5 of Mobiles in 7.05 seconds.
+2024-09-07 15:47:15,989 - INFO - Scraped page 6 of Mobiles in 9.67 seconds.
+2024-09-07 15:47:33,933 - INFO - Scraped page 7 of Mobiles in 4.85 seconds.
+2024-09-07 15:47:55,931 - INFO - Scraped page 8 of Mobiles in 8.43 seconds.
+2024-09-07 15:48:24,476 - INFO - Scraped page 9 of Mobiles in 9.84 seconds.
+2024-09-07 15:48:45,734 - INFO - Scraped page 10 of Mobiles in 5.49 seconds.
+2024-09-07 15:49:30,796 - INFO - Scraped page 11 of Mobiles in 26.88 seconds.
+2024-09-07 15:50:50,446 - ERROR - Timeout while trying to retrieve page 12. Retrying...
+2024-09-07 15:51:53,724 - ERROR - Timeout while trying to retrieve page 12. Retrying...
+2024-09-07 15:52:58,919 - ERROR - Timeout while trying to retrieve page 12. Retrying...
+2024-09-07 15:54:08,463 - ERROR - Timeout while trying to retrieve page 12. Retrying...
+2024-09-07 15:54:08,463 - ERROR - Max retries reached for https://www.flipkart.com/mobiles/pr?sid=tyy%2C4io&p%5B%5D=facets.brand%255B%255D%3DMOTOROLA&param=19873&ctx=eyJjYXJkQ29udGV4dCI6eyJhdHRyaWJ1dGVzIjp7InRpdGxlIjp7Im11bHRpVmFsdWVkQXR0cmlidXRlIjp7ImtleSI6InRpdGxlIiwiaW5mZXJlbmNlVHlwZSI6IlRJVExFIiwidmFsdWVzIjpbIk1vdG9yb2xhIHNtYXJ0cGhvbmVzIl0sInZhbHVlVHlwZSI6Ik1VTFRJX1ZBTFVFRCJ9fX19fQ%3D%3D&wid=58.productCard.PMU_V2_21&page=12. Skipping this page.
+2024-09-07 15:54:08,463 - INFO - Completed scraping category: Mobiles
+2024-09-07 15:54:11,048 - INFO - Scraping complete. Total products scraped: 837
