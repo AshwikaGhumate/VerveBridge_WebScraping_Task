@@ -43,8 +43,11 @@ Content Structure Changes: Flipkart occasionally updates its website structure, 
 
 
 Design Documents
+
 Flowchart
+
 Below is the high-level flowchart for the web scraping process:
+
            +----------------------+
            | Start Scraping Process|
            +----------------------+
