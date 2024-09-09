@@ -69,7 +69,7 @@ Below is the high-level flowchart for the web scraping process:
                      |
                      v
         +---------------------------------------+
-        | Store Data (Name, Price, Rating, Reviews) |
+        | Store Data (Category, Name, Price, Rating, Number of Reviews, Product Link, Category URL) |
         +---------------------------------------+
                      |
                      v
